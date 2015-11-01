@@ -1,0 +1,12 @@
+body {
+    text-align:center;
+    background-color:black;
+    color:white;
+    font-family:Oswald;
+}
+
+img {
+    width:400px; 
+    border-radius: 100%;
+    margin-top:200px;
+}
